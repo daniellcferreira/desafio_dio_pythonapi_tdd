@@ -1,4 +1,12 @@
 # TDD Project
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-660C21?style=flat-square&logo=pytest)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-4B8BBE?style=flat-square&logo=uvicorn)
+
+
 
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
